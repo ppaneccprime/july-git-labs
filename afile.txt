@@ -1,4 +1,4 @@
 this is some text in this file for feature.
 adding a second line of text.
 add third line of text with more text in it.
-add fourth line.
+add fourth line of text.
