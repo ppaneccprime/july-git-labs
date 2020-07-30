@@ -1,1 +1,1 @@
-add text to bfile
+add text to bfile with more text
