@@ -1,1 +1,2 @@
 add text to bfile with more text
+add more text to this file.
